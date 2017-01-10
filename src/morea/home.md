@@ -7,26 +7,24 @@ morea_type: home
 ## Welcome to {{ site.name }}
 
 ### Course Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia dapibus nisi sed finibus. Vivamus eget ante at quam molestie commodo et at odio. Aenean dignissim tortor id tellus sodales feugiat. Sed volutpat orci lacus, eu luctus lectus ullamcorper in. Nulla facilisi. Maecenas mattis ultrices lectus, in tincidunt urna tristique sed. In mattis tellus non aliquet pellentesque. Vivamus laoreet, justo luctus vehicula pulvinar, odio sapien pellentesque libero, eget congue est turpis a metus. Quisque porttitor massa quis porttitor pellentesque. Nulla consectetur magna vel neque tincidunt egestas. Phasellus nec ullamcorper ipsum. In pharetra gravida arcu, eu condimentum tortor rutrum sed. In id tincidunt erat.
+This course is for a student planning to study networking, database or other IT discipline. This course is not intended for students planning to pursue computer programming. The course content introduces the student to procedural programming. Structured programs will be written with an emphasis on procedural programming. Topics will include flowcharting & pseudocode, top down design, logic structures, decisions & boolean logic, iteration & looping, functions, and data structures & types.
 
 ### Course Objectives
 The following objectives will be addressed in the course:
 
-- Proin nec metus tincidunt, vulputate ex vel, eleifend elit.
-- Vestibulum vitae nisi consequat, iaculis arcu ut, sollicitudin nibh.
-- Etiam at ligula ut dolor imperdiet varius.
-- Pellentesque vehicula lorem ut urna lobortis condimentum.
-- Phasellus pellentesque lorem mollis arcu volutpat tincidunt.
-- In fringilla diam eu lorem scelerisque, a dictum ante pellentesque.
+- Apply basic programming syntax
+- Diagram program logic flow
+- Use simple variables (strings/numbers)
+- Use complex data structures (lists, tuples, dictionaries, arrays)
+- Create program code to use iteration and looping
+- Create program code that makes decisions and uses branching
+- Create program statements that perform mathematical calculations
+- Apply program debugging techniques in program testing
+- Create procedural programs using stateless functions
+- Use a source code management tool to store and version program code
 
 ## Text Book
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia dapibus nisi sed finibus. Vivamus eget ante at quam molestie commodo et at odio. C tellus sodales feugiat.
-
-<div style="padding:10px 20px">
-Maecenas mattis ultrices lectus<br>
-by Change Me<br>
-ISBN-10: XXXXXXXXXX<br>
-</div>
+No text book is required for this course.
 
 
 ## Course Staff
