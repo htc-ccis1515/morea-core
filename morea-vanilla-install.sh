@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ $# != 2 ]; then
-    echo "morea-vanilla-install <github account> <github repo>"
+if [ $# != 1 ]; then
+    echo "morea-vanilla-install <github repo for semester>"
     exit 1
 fi
 
@@ -17,11 +17,11 @@ fi
 
 
 echo "Creating master/ directory with repo."
-( set -x ; git clone git@github.com:$1/$2.git master)
+( set -x ; git clone git@github.com:htc-ccis1515/$1.git master)
 
 echo ""
 echo "Creating orphan branch, empty gh-pages/ directory."
-( set -x ; git clone git@github.com:$1/$2.git gh-pages)
+( set -x ; git clone git@github.com:htc-ccis1515/$1.git gh-pages)
 
 if [ -d "./gh-pages" ]; then
   ( set -x ; cd gh-pages; git checkout --orphan gh-pages; git rm -rf .; git branch -u origin/gh-pages )
